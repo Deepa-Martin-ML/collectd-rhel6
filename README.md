@@ -1,0 +1,1 @@
+# collectd-rhel6
